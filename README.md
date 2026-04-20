@@ -27,7 +27,7 @@
 ### 2. Подготовка файлов
 Склонируйте репозиторий или скачайте архив с кодом:
 ```bash
-git clone https://github.com/ВАШ_ЛОГИН/ai-psy-bot.git
+git clone https://github.com/MihalPalich993/ai-psy-bot.git
 cd ai-psy-bot
 ```
 
