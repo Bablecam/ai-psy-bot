@@ -12,7 +12,7 @@
 ## 🛠 Технологический стек
 
 *   **Язык**: Python 3.10+
-*   **Библиотека бота**: Aiogram 3.x (Asynchronous)
+*   **Библиотека бота**: Aiogram 3.26.0 (Asynchronous)
 *   **ИИ Модель**: GigaChat API (Sber)
 *   **Управление состоянием**: FSM (Finite State Machine)
 *   **Конфигурация**: Python-dotenv
